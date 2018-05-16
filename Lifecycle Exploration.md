@@ -5,7 +5,7 @@
 Provide insights and analysis of users life cycle and the meeting impact on the conversion rate.
 
 #### Caveat
-* a date in the future was observed on a single case as a starting date. Again considering that it is just one, this could be discarded and considering noise, or perform a sanity check of the full data set.
+* A date in the future was observed on a single case as a starting date. Again considering that it is just one, this could be discarded and considering noise, or perform a sanity check of the full data set.
 
 ## Subscriptions
 
@@ -38,6 +38,6 @@ Based on the available data, the likelihood of convert after the meeting is 29.7
 ## Next Steps
 * Considering that most of the users are free, definitely worth to do a deep analysis of free users, including ROI and cost per acquisition, among others.
 * It will be possible to enrich the analysis and provide user segmentation as well as other relevant metrics (LTV, Churn and cohorts analysis), with more variables such as:
-** Cancellations
-** App usage
-** Plans
+* Cancellations
+* App usage
+* Plans
