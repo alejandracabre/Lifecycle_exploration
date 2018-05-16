@@ -38,6 +38,6 @@ Based on the available data, the likelihood of convert after the meeting is 29.7
 ## Next Steps
 * Considering that most of the users are free, definitely worth to do a deep analysis of free users, including ROI and cost per acquisition, among others.
 * It will be possible to enrich the analysis and provide user segmentation as well as other relevant metrics (LTV, Churn and cohorts analysis), with more variables such as:
-* * Cancellations
-* * App usage
-* * Plans
+** Cancellations
+** App usage
+** Plans
