@@ -9,7 +9,7 @@ With this approach the dashboard will be updated automatically at the desired fr
 
 * After the data exploration it was confirmed a 1:1 relation between both tables (Meeting report & Customer status) with each row having a unique customer_id.
 * The meeting is one single event per user.
-* I was explored the data using a data visualization exercise in Tableau in order to have a better understanding of the regular behavior as well as the outliers.
+* It was analyzed the data using Tableau, in order to have a better understanding of the regular behavior as well as the outliers.
 
 ### Data Modeling: Queries
 
