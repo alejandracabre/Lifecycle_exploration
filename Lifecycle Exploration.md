@@ -11,10 +11,6 @@ Provide insights and analysis of users life cycle and the meeting impact on the 
 
 As a Saas model company, most of the subscriptions are free ones, but both are increasing with the time.
 
-![all](/charts/suscriptions%20created%20date.PNG)
-
-![paid](/charts/paid%20suscriptions.PNG)
-
 ![paid vs free](/charts/paid%20vs%20free.PNG)
 
 ### Days to convert
