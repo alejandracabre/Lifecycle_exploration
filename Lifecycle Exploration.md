@@ -13,9 +13,9 @@ As a Saas model company, most of the subscriptions are free ones, but both are i
 
 ![all](/charts/suscriptions%20created%20date.PNG)
 
-![paid](/master/charts/paid%20suscriptions.PNG)
+![paid](/charts/paid%20suscriptions.PNG)
 
-![paid vs free](/master/charts/paid%20vs%20free.PNG)
+![paid vs free](/charts/paid%20vs%20free.PNG)
 
 ### Days to convert
 
@@ -23,7 +23,7 @@ Is interesting to notice that the median of the days to convert, between the acc
 
 ![median to convert](/charts/median_to_convert.PNG)
 
-###Conversion rate after meeting
+### Conversion rate after meeting
 
 In most of the cases, the meeting with representative happens after the trial period ends.
 
