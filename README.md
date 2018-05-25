@@ -23,4 +23,4 @@ All queries are included in SQL files (queries folder).
 
 ## Results: Data story
 Final results are presented in the data story "Lifecycle Exploration" in this repo. Context, caveats, findings, charts (also available in the documentation folder)
-Finally next steps and recommendations, are included.
+Finally next steps and recommendations.
